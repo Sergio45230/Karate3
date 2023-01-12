@@ -1,0 +1,9 @@
+{
+  "name": "karate2",
+  "version": "0.0.0",
+  "description": "Karate2",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
